@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\bin\Debug\net6.0\DeckOfCards.exe
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\bin\Debug\net6.0\DeckOfCards.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\bin\Debug\net6.0\DeckOfCards.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\bin\Debug\net6.0\DeckOfCards.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\bin\Debug\net6.0\ref\DeckOfCards.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\bin\Debug\net6.0\DeckOfCards.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\obj\Debug\net6.0\DeckOfCards.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\obj\Debug\net6.0\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\obj\Debug\net6.0\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\obj\Debug\net6.0\DeckOfCards.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\obj\Debug\net6.0\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\obj\Debug\net6.0\DeckOfCards.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\obj\Debug\net6.0\ref\DeckOfCards.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\obj\Debug\net6.0\DeckOfCards.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\DeckOfCards\obj\Debug\net6.0\DeckOfCards.genruntimeconfig.cache

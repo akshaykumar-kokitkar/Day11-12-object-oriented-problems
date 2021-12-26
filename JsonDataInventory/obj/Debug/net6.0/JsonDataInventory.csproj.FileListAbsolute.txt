@@ -1,0 +1,17 @@
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\bin\Debug\net6.0\JsonDataInventory.exe
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\bin\Debug\net6.0\JsonDataInventory.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\bin\Debug\net6.0\JsonDataInventory.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\bin\Debug\net6.0\JsonDataInventory.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\bin\Debug\net6.0\ref\JsonDataInventory.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\bin\Debug\net6.0\JsonDataInventory.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\obj\Debug\net6.0\JsonDataInventory.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\obj\Debug\net6.0\JsonDataInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\obj\Debug\net6.0\JsonDataInventory.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\obj\Debug\net6.0\JsonDataInventory.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\obj\Debug\net6.0\JsonDataInventory.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\obj\Debug\net6.0\JsonDataInventory.csproj.CopyComplete
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\obj\Debug\net6.0\JsonDataInventory.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\obj\Debug\net6.0\ref\JsonDataInventory.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\obj\Debug\net6.0\JsonDataInventory.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\Day11-12\JsonDataInventory\obj\Debug\net6.0\JsonDataInventory.genruntimeconfig.cache

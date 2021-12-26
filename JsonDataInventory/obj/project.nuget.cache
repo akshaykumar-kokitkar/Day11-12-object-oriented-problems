@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZE6Djjc6RDT9ig4UuvdrvciA01oqrkjnoYPAFtfiPpPlLc56SIkKIp440FBpUj3CVkZ6R6bW4EcRT5m+Xd43Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ak\\Desktop\\BridgeLabz Project\\Day11-12\\JsonDataInventory\\JsonDataInventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ak\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

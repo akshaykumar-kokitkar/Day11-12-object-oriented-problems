@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4a4ad43-b926-4b47-95b8-282115554ed8": {
+      "ProjectGuid": "b4a4ad43-b926-4b47-95b8-282115554ed8",
+      "DisplayName": "JsonDataInventory",
+      "ColorIndex": 0
+    },
+    "44e8f354-20a0-4574-bec8-32fe422908e2": {
+      "ProjectGuid": "44e8f354-20a0-4574-bec8-32fe422908e2",
+      "DisplayName": "DeckOfCards",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
